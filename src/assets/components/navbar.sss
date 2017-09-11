@@ -1,0 +1,40 @@
+
+.nav
+  font-size: 16px
+  font-family: 'beausans_light', Arial
+
+  &__list
+    display: flex
+    flex-direction: row
+    flex-wrap: nowrap
+    justify-content: space-between
+    background: #94c9e2
+    border-radius: 5px 5px 0 0
+
+  &__item
+    display: flex
+    flex-grow: 1
+    justify-content: center
+    align-items: center
+    text-transform: uppercase
+    background: linear-gradient(to right, #94c9e2, #b0d9ec)
+    border-radius: 5px 5px 0 0
+
+    &.active
+      border: 1px solid #cecece
+      border-bottom: none
+  
+  &__link
+    text-decoration: none
+    line-height: 50px
+    width: 100%
+    text-align: center
+
+    &, &:hover, &:visited  
+      color: #4b4b4b
+
+  &__arrow
+    display: block
+    float: right
+    margin-right: 6px
+    margin-left: 2px

@@ -1,0 +1,74 @@
+
+
+@font-face {
+    font-family: 'als_rubl_regular';
+    src: url('rouble/rouble-webfont.eot');
+    src: url('rouble/rouble-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rouble/rouble-webfont.woff') format('woff'),
+         url('rouble/rouble-webfont.ttf') format('truetype'),
+         url('rouble/rouble-webfont.svg#als_rublregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'beausans_bold';
+    src: url('beau_sans_pro/pfbeausanspro-bold-webfont.eot');
+    src: url('beau_sans_pro/pfbeausanspro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('beau_sans_pro/pfbeausanspro-bold-webfont.woff') format('woff'),
+         url('beau_sans_pro/pfbeausanspro-bold-webfont.ttf') format('truetype'),
+         url('beau_sans_pro/pfbeausanspro-bold-webfont.svg#pf_beausans_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'beausans_bbook';
+    src: url('beau_sans_pro/pfbeausanspro-book-webfont.eot');
+    src: url('beau_sans_pro/pfbeausanspro-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('beau_sans_pro/pfbeausanspro-book-webfont.woff') format('woff'),
+         url('beau_sans_pro/pfbeausanspro-book-webfont.ttf') format('truetype'),
+         url('beau_sans_pro/pfbeausanspro-book-webfont.svg#pf_beausans_probbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'beausans_light';
+    src: url('beau_sans_pro/pfbeausanspro-light-webfont.eot');
+    src: url('beau_sans_pro/pfbeausanspro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('beau_sans_pro/pfbeausanspro-light-webfont.woff') format('woff'),
+         url('beau_sans_pro/pfbeausanspro-light-webfont.ttf') format('truetype'),
+         url('beau_sans_pro/pfbeausanspro-light-webfont.svg#pf_beausans_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'beausans_regular';
+    src: url('beau_sans_pro/pfbeausanspro-reg-webfont.eot');
+    src: url('beau_sans_pro/pfbeausanspro-reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('beau_sans_pro/pfbeausanspro-reg-webfont.woff') format('woff'),
+         url('beau_sans_pro/pfbeausanspro-reg-webfont.ttf') format('truetype'),
+         url('beau_sans_pro/pfbeausanspro-reg-webfont.svg#pf_beausans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'beausans_semibold';
+    src: url('beau_sans_pro/pfbeausanspro-sebold-webfont.eot');
+    src: url('beau_sans_pro/pfbeausanspro-sebold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('beau_sans_pro/pfbeausanspro-sebold-webfont.woff') format('woff'),
+         url('beau_sans_pro/pfbeausanspro-sebold-webfont.ttf') format('truetype'),
+         url('beau_sans_pro/pfbeausanspro-sebold-webfont.svg#pf_beausans_prosemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
